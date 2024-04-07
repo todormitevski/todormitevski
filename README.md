@@ -1,6 +1,4 @@
-<h1 align="center">Hello 👋</h1>
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=todormitevski&label=Profile%20views&color=0e75b6&style=flat" alt="todormitevski" />
 </p>
 
@@ -57,4 +55,10 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/todormitevski/todormitevski/blob/main/bonfire.gif" alt="bonfire" />
 </p>
