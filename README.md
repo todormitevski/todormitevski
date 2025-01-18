@@ -60,5 +60,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/todormitevski/todormitevski/blob/master/bonfire.gif" alt="bonfire" />
+  <a href="https://ultimate-hollowing.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/todormitevski/todormitevski/blob/master/bonfire.gif" alt="bonfire" />
+  </a>
 </p>
