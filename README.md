@@ -57,6 +57,7 @@
   
 </p>
 
+<!--
 <hr>
 
 <p align="center">
@@ -64,3 +65,4 @@
     <img src="https://github.com/todormitevski/todormitevski/blob/master/bonfire.gif" alt="bonfire" />
   </a>
 </p>
+-->
